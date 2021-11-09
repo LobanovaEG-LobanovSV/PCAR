@@ -21,6 +21,6 @@ The software works in the following way.
    - *Crop ... pixels from left and top*. If you need to crop the image from left and top, set this value to non-zero value.
    - *Crop ... first images from the stack*. If you need to remove several first slides from the image stack, set this value to non-zero value.
    - *Laser wavelength (nm)*. If your experiment is done for one laser wavelength, this value can be a scalar. Otherwise, this value must be a vector (for example, [488; 641]).
-   - *Factor for the threshold*. If the software detect aggregates that are rather noise (normally appear as dim spots) than real aggregates, set this value to 2 to select stricter threshold. The fault value is 1.
+   - *Factor for the threshold*. If the software detect aggregates that are rather noise (normally appear as dim spots) than real aggregates, set this value to 2 to select stricter threshold. The default value is 1.
    - *Peak sensitivity for cluster analysis*. The factor F for clustering (separating aggregates). Two clusters with peak intensities I_1 and I_2 are considered different if they cannot be connected with a path intensity along which is always higher than F∙min⁡(I_1,I_2). The default value is 0.5.
 
