@@ -11,7 +11,7 @@ The PCAR tool is designed for simultaneous analysis of diffraction-limited singl
 5. good funcionality (1) Aggregate Counts, (2) Aggregate Brightness and (3) Aggregate Area per FOV automatically saved in an Excel file + PowerPont presentation.
 
 
-The software is provided as a one executable file `DiffLimAnalyseFolder.exe`. To run it you need to install the Windows version of the MATLAB Runtime for R2020b from https://www.mathworks.com/products/compiler/mcr/index.html. If you already have MATLAB R2020b installed, you can run the executable file `DiffLimAnalyseFolder.exe` right away.
+The software is provided as a one executable file `DiffLimAnalyseFolder.exe`. To run it you need to install the Windows version of the MATLAB Runtime for R2020b from https://www.mathworks.com/products/compiler/mcr/index.html. If you already have MATLAB R2020b installed, you can run the executable file `DiffLimAnalyseFolder.exe` straight away.
 
 The software works in the following way.
 1. Save log file with a name `Log.txt`.
