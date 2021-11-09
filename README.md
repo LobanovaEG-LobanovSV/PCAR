@@ -17,7 +17,7 @@ The software works in the following way.
 1. Save log file with a name `Log.txt`.
 2. Create `Default` folder and save default parameters in this folder.
 3. Create a dialog box to initialize parameters.
-   - *Crop window (choose a new number of pixels)*. If you need to crop the image, select this parameter smaller than the number of pixels of your image. The center of a new square is selected automatically and is located in the pixel with maximum backgroud intensity.
+   - *Crop window (choose a new number of pixels)*. If you need to crop the image, select this parameter smaller than the number of pixels in your image. The center of a new square is selected automatically and is located in the pixel with maximum backgroud intensity.
    - *Crop ... pixels from left and top*. If you need to crop the image from left and top, set this value to non-zero value.
    - *Crop ... first images from the stack*. If you need to remove several first slides from the image stack, set this value to non-zero value.
    - *Laser wavelength (nm)*. If your experiment is done for one laser wavelength, this value can be a scalar. Otherwise, this value must be a vector (for example, [488; 641]).
