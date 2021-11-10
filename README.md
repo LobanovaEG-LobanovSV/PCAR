@@ -4,7 +4,7 @@
 The PCAR tool is designed for simultaneous analysis of diffraction-limited single-molecule images containing single aggregates in one click.
 
 #### **Good features of PCAR:**
-1. recognises aggregates of various size and shape ranging from spots to fibrillar and complex shaped aggregates
+1. recognises aggregates of various size and shape ranging from spots to long fibrils and complex shaped aggregates
 2. works equally well with low and high aggregate density present in one dataset and analysed altogether 
 3. provide broader applications from detecting picomolar concentrations of aggregates in CSF and cell media to analysis of concentrated samples such as serum, cell lysates, brain homogenates and etc.
 4. user-friendly with just 2 intuitive parameters for analysis that take only several values
