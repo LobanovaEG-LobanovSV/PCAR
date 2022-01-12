@@ -24,3 +24,8 @@ The software works in the following way.
    - *Factor for the threshold*. If the software detect aggregates that are rather noise (normally appear as dim spots) than real aggregates, set this value to 2 to select stricter threshold. The default value is 1.
    - *Peak sensitivity for cluster analysis*. The factor F for clustering (separating aggregates). Two clusters with peak intensities I_1 and I_2 are considered different if they cannot be connected with a path intensity along which is always higher than F∙min⁡(I_1,I_2). The default value is 0.5.
 
+
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+Copyright (c) 2021, by Evgeniia Lobanova and Sergey Lobanov
