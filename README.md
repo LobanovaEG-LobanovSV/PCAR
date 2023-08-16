@@ -8,7 +8,7 @@ The PCAR tool is designed for simultaneous analysis of diffraction-limited singl
 2. works equally well with low and high aggregate density present in one dataset and analysed altogether 
 3. provide broader applications from detecting picomolar concentrations of aggregates in CSF and cell media to analysis of concentrated samples such as serum, cell lysates, brain homogenates and etc.
 4. user-friendly with just 2 intuitive parameters for analysis that take only several values
-5. good funcionality (1) Aggregate Counts, (2) Aggregate Brightness and (3) Aggregate Area automatically saved in an Excel file + PowerPont presentation.
+5. good functionality (1) Aggregate Counts, (2) Aggregate Brightness and (3) Aggregate Area automatically saved in an Excel file + PowerPont presentation.
 
 
 The software is provided as a one executable file `DiffLimAnalyseFolder.exe`. To run it you need to install the Windows version of the MATLAB Runtime for R2020b from https://www.mathworks.com/products/compiler/mcr/index.html. If you already have MATLAB R2020b installed, you can run the executable file `DiffLimAnalyseFolder.exe` straight away.
